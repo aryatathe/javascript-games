@@ -2,8 +2,8 @@
 
 <template>
   <LayoutHeader />
-  <div class="pt-18"><slot></slot></div>
-  <div>footer</div>
+  <div class="pt-20"><slot></slot></div>
+  <!-- <div>footer</div> -->
 </template>
 
 <style scoped></style>
