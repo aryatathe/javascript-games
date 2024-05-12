@@ -5,8 +5,8 @@ const navs = [
     path: "/",
   },
   {
-    name: "Cube",
-    path: "/cube",
+    name: "Snake",
+    path: "/snake",
   },
 ];
 </script>
